@@ -9,7 +9,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-22.x-green?style=for-the-badge&logo=node.js)
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-v1.0-purple?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v0.1-purple?style=for-the-badge)
 
 </div>
 
