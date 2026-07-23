@@ -2,7 +2,7 @@
 
 # 🌸 Kirari Mochito
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/discordjs/discordjs.png" width="180">
+<img src="file:///C:/Users/ADMIN/Downloads/ChatGPT%20Image%2017_29_06%2020%20thg%207,%202026.png" width="180">
 
 ### ✨ A Modern Discord Bot built with Discord.js v14
 
