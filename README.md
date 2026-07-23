@@ -1,51 +1,142 @@
 <div align="center">
 
+<img src="assets/banner.png">
+╔══════════════════════════════════════════╗
+
+           🌸 KIRARI MOCHITO 🌸
+
+      Beyond a Discord Bot
+
+   Music • Anime • Minecraft • AI
+
+        Powered by Discord.js v14
+
+╚══════════════════════════════════════════╝
+
 # 🌸 Kirari Mochito
 
-<img src="https://dubaothoitiett.com/wp-content/uploads/2026/03/hinh-nen-anime-dong.jpg" width="180">
+### ✨ Beyond a Discord Bot — Your Intelligent Community Companion
 
-### ✨ A Modern Discord Bot built with Discord.js v14
-
-![Node.js](https://img.shields.io/badge/Node.js-22.x-green?style=for-the-badge&logo=node.js)
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+![Node.js](https://img.shields.io/badge/Node.js-22.x-5FA04E?style=for-the-badge&logo=node.js)
+
 ![Version](https://img.shields.io/badge/Version-v1.0-purple?style=for-the-badge)
+
+![License](https://img.shields.io/badge/MIT-License-blue?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🌸 Giới thiệu
+# 🌸 What is Kirari Mochito?
 
-Kirari Mochito là một Discord Bot được phát triển bằng **Discord.js v14**.
+Kirari Mochito is not just another Discord Bot.
 
-Bot bao gồm nhiều tính năng:
+It is a next-generation intelligent assistant designed to create immersive, beautiful and interactive Discord communities.
 
-- 🎵 Music
-- 😂 Fun
-- 🛠 Utility
-- 🛡 Moderation
-- 🎮 Minecraft
-- 📈 Logging
-- 🎫 Ticket
-- 🎉 Giveaway
-- ⭐ Level System
-- 🤖 Anime Commands
+Every feature has been carefully crafted with performance, elegance and scalability in mind.
+
+Whether you manage a gaming guild, anime community, Minecraft network or a large public server, Kirari Mochito adapts perfectly to your needs.
 
 ---
 
-# 📁 Cấu trúc
+# ✨ Features
+
+🛠 Professional Slash Commands
+
+🎵 Advanced Music System
+
+💬 AI Ready Architecture
+
+🎮 Minecraft Server Integration
+
+💰 Economy
+
+🏆 Level System
+
+🎉 Giveaway
+
+🎫 Ticket
+
+🌸 Anime Commands
+
+😂 Fun Commands
+
+🛡 Moderation
+
+📊 Logging
+
+👋 Welcome Card
+
+📈 Statistics
+
+⚡ High Performance
+
+---
+
+# 🚀 Built With
+
+• Discord.js v14
+
+• Node.js
+
+• MongoDB
+
+• Mongoose
+
+• Discord Player
+
+• Canvas
+
+• Axios
+
+• dotenv
+
+---
+
+# 📁 Project Structure
 
 ```text
-commands/
-├── admin/
-├── anime/
-├── fun/
-├── music/
-└── utility/
+src/
+│
+├── commands/
+├── events/
+├── handlers/
+├── database/
+├── config/
+├── services/
+├── utils/
+│
+└── index.js
+```
 
-events/
-handlers/
-config/
-database/
-utils/
+---
+
+# ❤️ Philosophy
+
+Beautiful.
+
+Powerful.
+
+Fast.
+
+Easy to Expand.
+
+Made with passion.
+
+---
+
+# 🌌 Vision
+
+Kirari Mochito aims to become an all-in-one Discord ecosystem that combines community management, entertainment, gaming, anime and automation into one elegant experience.
+
+---
+
+# 👨‍💻 Developer
+
+Made with ❤️ by
+
+## Kirari Mochito Development Team
+
+> "Create Communities Beyond Imagination."
