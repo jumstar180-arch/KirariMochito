@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://dubaothoitiett.com/wp-content/uploads/2026/03/hinh-nen-anime-dong.jpg">
+<img src="https://dubaothoitiett.com/wp-content/uploads/2026/03/hinh-nen-anime-dong.jpg" width="180">
 
 # 🌸 Kirari Mochito
 
@@ -125,7 +125,16 @@ Kirari Mochito aims to become an all-in-one Discord ecosystem that combines comm
 # 👨‍💻 Developer
 
 Made with ❤️ by
+---
 
-## Kirari Mochito Development Team
+## Nếu muốn đẹp hơn nữa
 
-> "Create Communities Beyond Imagination."
+Mình có thể thiết kế riêng cho bot của bạn:
+
+- 🌸 Logo **Kirari Mochito** phong cách anime.
+- 🖼 Banner GitHub kích thước **1280×640**.
+- 🎨 Avatar bot.
+- 💜 Màu chủ đạo tím/trắng giống Discord.
+- ✨ README có hiệu ứng GIF, icon động và thống kê GitHub.
+
+Bộ này sẽ làm trang GitHub của bot trông chuyên nghiệp như các dự án mã nguồn mở lớn.
