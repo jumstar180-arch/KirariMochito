@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png">
+<img src="https://dubaothoitiett.com/wp-content/uploads/2026/03/hinh-nen-anime-dong.jpg">
 
 # 🌸 Kirari Mochito
 
