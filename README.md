@@ -2,7 +2,7 @@
 
 # 🌸 Kirari Mochito
 
-<img src="https://khoinguonsangtao.vn/wp-content/uploads/2021/09/hinh-anh-dong-anime-meo-de-thuong.gif" width="180">
+<img src="https://dubaothoitiett.com/wp-content/uploads/2026/03/hinh-nen-anime-dong.jpg" width="180">
 
 ### ✨ A Modern Discord Bot built with Discord.js v14
 
