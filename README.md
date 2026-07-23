@@ -2,7 +2,7 @@
 
 # 🌸 Kirari Mochito
 
-<img src="file:///C:/Users/ADMIN/Downloads/ChatGPT%20Image%2017_29_06%2020%20thg%207,%202026.png" width="180">
+<img src="https://khoinguonsangtao.vn/wp-content/uploads/2021/09/hinh-anh-dong-anime-meo-de-thuong.gif" width="180">
 
 ### ✨ A Modern Discord Bot built with Discord.js v14
 
