@@ -1,17 +1,6 @@
 <div align="center">
 
 <img src="assets/banner.png">
-╔══════════════════════════════════════════╗
-
-           🌸 KIRARI MOCHITO 🌸
-
-      Beyond a Discord Bot
-
-   Music • Anime • Minecraft • AI
-
-        Powered by Discord.js v14
-
-╚══════════════════════════════════════════╝
 
 # 🌸 Kirari Mochito
 
