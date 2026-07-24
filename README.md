@@ -1,9 +1,16 @@
 <div align="center">
 
+<<<<<<< Updated upstream
 <img src="https://dubaothoitiett.com/wp-content/uploads/2026/03/hinh-nen-anime-dong.jpg" width="180">
 
 # 🌸 Kirari Mochito
 
+=======
+# 🌸 Kirari Mochito
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/discordjs/discordjs.png" width="180">
+
+>>>>>>> Stashed changes
 ### ✨ A Modern Discord Bot built with Discord.js v14
 
 ![Node.js](https://img.shields.io/badge/Node.js-22.x-green?style=for-the-badge&logo=node.js)
@@ -15,6 +22,7 @@
 
 ---
 
+<<<<<<< Updated upstream
 # 🌸 What is Kirari Mochito?
 
 Kirari Mochito is not just another Discord Bot.
@@ -135,3 +143,39 @@ Mình có thể thiết kế riêng cho bot của bạn:
 - ✨ README có hiệu ứng GIF, icon động và thống kê GitHub.
 
 Bộ này sẽ làm trang GitHub của bot trông chuyên nghiệp như các dự án mã nguồn mở lớn.
+=======
+# 🌸 Giới thiệu
+
+Kirari Mochito là một Discord Bot được phát triển bằng **Discord.js v14**.
+
+Bot bao gồm nhiều tính năng:
+
+- 🎵 Music
+- 😂 Fun
+- 🛠 Utility
+- 🛡 Moderation
+- 🎮 Minecraft
+- 📈 Logging
+- 🎫 Ticket
+- 🎉 Giveaway
+- ⭐ Level System
+- 🤖 Anime Commands
+
+---
+
+# 📁 Cấu trúc
+
+```text
+commands/
+├── admin/
+├── anime/
+├── fun/
+├── music/
+└── utility/
+
+events/
+handlers/
+config/
+database/
+utils/
+>>>>>>> Stashed changes

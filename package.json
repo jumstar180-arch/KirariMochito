@@ -1,0 +1,28 @@
+{
+  "name": "kirarimochi",
+  "version": "0.0.1",
+  "description": "kirarimochi is a TypeScript Discord bot foundation for a Vietnamese community server. It includes slash commands, moderation, support tickets, XP/levels, welcome messages, and an audit log.",
+  "keywords": [
+    "kirarimochi",
+    "kirarimochi-bot-discord"
+  ],
+  "homepage": "https://github.com/jumstar180-arch/KirariMochito#readme",
+  "bugs": {
+    "url": "https://github.com/jumstar180-arch/KirariMochito/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumstar180-arch/KirariMochito.git"
+  },
+  "license": "ISC",
+  "author": "kirarimochi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2"
+  }
+}

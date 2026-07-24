@@ -38,6 +38,8 @@
 *.exe
 *.out
 *.app
+node_modules
+*.env
 
 # Build directories
 build/
