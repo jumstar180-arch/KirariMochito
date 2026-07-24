@@ -1,16 +1,11 @@
 <div align="center">
 
-<<<<<<< Updated upstream
 <img src="https://dubaothoitiett.com/wp-content/uploads/2026/03/hinh-nen-anime-dong.jpg" width="180">
 
 # 🌸 Kirari Mochito
 
-=======
-# 🌸 Kirari Mochito
-
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/discordjs/discordjs.png" width="180">
 
->>>>>>> Stashed changes
 ### ✨ A Modern Discord Bot built with Discord.js v14
 
 ![Node.js](https://img.shields.io/badge/Node.js-22.x-green?style=for-the-badge&logo=node.js)
@@ -22,7 +17,6 @@
 
 ---
 
-<<<<<<< Updated upstream
 # 🌸 What is Kirari Mochito?
 
 Kirari Mochito is not just another Discord Bot.
