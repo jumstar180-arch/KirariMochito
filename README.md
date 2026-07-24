@@ -4,8 +4,6 @@
 
 # 🌸 Kirari Mochito
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/discordjs/discordjs.png" width="180">
-
 ### ✨ A Modern Discord Bot built with Discord.js v14
 
 ![Node.js](https://img.shields.io/badge/Node.js-22.x-green?style=for-the-badge&logo=node.js)
